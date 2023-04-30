@@ -24,12 +24,16 @@ An undergraduate student in Information Technology who is with full confidence, 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="35.5" height="35.5" alt="Figma" /></a>
 </p>
 
-
+### Contact Me 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pamuditha-Gamaarachchi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pamuditha-gamaarachchi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pamu.ditha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](nayanadunpamuditha@gmail.com)  
 
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pamuditha-Gamaarachchi&show_icons=true&theme=midnight-purple&text_color=20C20E&title_color=005eff&icon_color=005eff" />
 <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamuditha-Gamaarachchi&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+
+
+
 
 
 
